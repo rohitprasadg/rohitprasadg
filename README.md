@@ -42,6 +42,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rohitprasadg/rohitprasadg/output/snake.svg" alt="Snake animation" />
-
 ###
