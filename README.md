@@ -3,14 +3,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitprasadg&show_icons=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitprasadg&layout=compact&theme=dracula" height="150" />
-</div>
-
----
-
-### 🧠 Focus
+### 🧠 Current Focus
 - LLMs, AI Agents, RAG & Graph-based systems  
 - End-to-end AI application development  
 
@@ -31,10 +24,10 @@
 
 ### 🔗 Connect
 <div align="left">
-  <a href="https://www.linkedin.com/in/rohitprasadg" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-prasad-8b86451b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="rohitguruprasad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </div>
